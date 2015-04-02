@@ -1,6 +1,6 @@
 # Nginx Caching Example
 
-Exercise used in my blog post.
+Exercise used in my [blog post](http://czerasz.com/2015/03/30/nginx-caching-tutorial/).
 
 ## Overview
 
