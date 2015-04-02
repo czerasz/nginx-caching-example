@@ -12,3 +12,7 @@ The diagram below illustrates the docker environment used in this exercise:
 
 - [Docker](https://www.docker.com/)
 - [curl](http://curl.haxx.se/)
+
+## Resources
+
+- [Nginx Cache Purge Module](https://github.com/FRiCKLE/ngx_cache_purge)
