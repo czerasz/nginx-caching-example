@@ -1,7 +1,7 @@
 FROM ubuntu
 
 # Set the reset cache variable
-ENV REFRESHED_AT 2015-04-02
+ENV REFRESHED_AT 2015-04-07
 
 WORKDIR /tmp/nginx-installation
 
