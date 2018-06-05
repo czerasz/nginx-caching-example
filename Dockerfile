@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu@sha256:2d44ae143feeb36f4c898d32ed2ab2dffeb3a573d2d8928646dfc9cb7deb1315
 
 # Set the reset cache variable
 ENV REFRESHED_AT 2015-04-07
